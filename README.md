@@ -40,10 +40,10 @@ A highly disciplined Software Engineer and B.Tech CSE graduate specializing in c
 <hr />
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="www.linkedin.com/in/rajdip-mondal-54a877296" alt="LinkedIn" /></a>
+<a href="www.linkedin.com/in/rajdip-mondal-54a877296"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>  
   <!-- <a href="YOUR_PORTFOLIO_URL"><img src="" alt="Portfolio" /></a> -->
   <!-- <a href="YOUR_TWITTER_URL"><img src="" alt="Twitter" /></a> -->
-  <a href="mailto:rajdipmondal03@gmail.com.com"><img src="" alt="Gmail" /></a>
+  <a href="mailto:rajdipmondal03@gmail.com.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
 <br />
@@ -83,6 +83,6 @@ A highly disciplined Software Engineer and B.Tech CSE graduate specializing in c
 <br />
 
 <!-- LARGE SKILLS GRAPHIC -->
-<div align="center">
+<!-- <div align="center">
   <img src="YOUR_SKILLS_IMAGE_LINK_HERE.png" alt="Skills Graphic" width="100%" />
-</div>
+</div> -->
