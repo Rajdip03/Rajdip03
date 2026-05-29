@@ -42,10 +42,13 @@ A highly disciplined Software Engineer and B.Tech CSE graduate specializing in c
 *Feb 2026 - May 2026 
 
 * Engineered dynamic React administrative dashboards for financial payouts and event revenue, integrating dynamic API parameters with complex UI state mapping.
-* Developed interactive, responsive UI components, including synchronized price range sliders, custom collapsible sidebars, and robust cross-platform input validations.
-* Led platform-wide responsive UI refactoring and resolved critical layout, filtering, and API data-mapping bugs across user and administrative modules.
-* Executed comprehensive sanity testing across multiple web and mobile applications generating detailed bug reports to ensure cross-platform stability.
-* Conducted direct client technical sessions to diagnose operational issues, gather requirements, and translate business needs into actionable engineering solutions.
+* Developed and maintained dynamic user interfaces for live client projects using React.js and Next.js, ensuring high performance and responsiveness.
+* Styled responsive web components using modern CSS and Tailwind CSS, improving overall cross-browser compatibility.
+* Conducted rigorous QA testing across multiple project phases, identifying and resolving bugs to ensure seamless product delivery.
+* Managed direct client communications, gathering requirements and translating business needs into actionable technical tasks.
+* Collaborated with the development team to deliver scalable MERN stack solutions within strict project deadlines.
+* Led platform-wide responsive UI refactoring and resolved critical layout, filtering, and API data-mapping.
+
   
   </br>
   <hr />
