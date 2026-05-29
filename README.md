@@ -1,6 +1,6 @@
-<!-- <div align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE.png" alt="Banner Image" width="100%" />
-</div> -->
+ <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner Image" width="100%" />
+</div> 
 
 <br />
 
@@ -18,9 +18,7 @@ A highly disciplined Software Engineer and B.Tech CSE graduate specializing in c
 
 <br />
 
-<h3 align="center" style="color: #00FF00;">
-   MERN Stack Developer 
-</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=HI%2C+I+am+Rajdip+Mondal.;A+MERN+Developer.;Interest+in+Coding+and+Development.)](https://git.io/typing-svg)
 
 <br />
 
@@ -30,19 +28,35 @@ A highly disciplined Software Engineer and B.Tech CSE graduate specializing in c
 * 🌱 MERN Stack 
   * 📄 Check out my [Resume](YOUR_RESUME_LINK_HERE)
   * 💻 Know more about me [Portfolio](YOUR_PORTFOLIO_LINK_HERE)
-  * 💬 Ask me about *HTML, CSS, Tailwind CSS, JavaScript, React js, Next js.
+  * 💬 Ask me about *Java, OOP, HTML, CSS, Tailwind CSS, JavaScript, React js, Next js.
   * 📫 How to reach me [rajdipmondal03@gmail.com](mailto:rajdipmondal03@gmail.com)
 
 <br />
 <hr />
 
+### 💼 Experience
+
+
+#### 🔗 Product Implementation Trainee @ Uphead Management Consulting
+
+*Feb 2026 - May 2026 
+
+* Engineered dynamic React administrative dashboards for financial payouts and event revenue, integrating dynamic API parameters with complex UI state mapping.
+* Developed interactive, responsive UI components, including synchronized price range sliders, custom collapsible sidebars, and robust cross-platform input validations.
+* Led platform-wide responsive UI refactoring and resolved critical layout, filtering, and API data-mapping bugs across user and administrative modules.
+* Executed comprehensive sanity testing across multiple web and mobile applications generating detailed bug reports to ensure cross-platform stability.
+* Conducted direct client technical sessions to diagnose operational issues, gather requirements, and translate business needs into actionable engineering solutions.
+  
+  </br>
+  <hr />
+<!-- CONNECT WITH ME SECTION -->
 <h3 align="center">📱 Connect with me</h3>
 <hr />
 
 <div align="center">
-<a href="www.linkedin.com/in/rajdip-mondal-54a877296"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>  
-  <!-- <a href="YOUR_PORTFOLIO_URL"><img src="" alt="Portfolio" /></a> -->
-  <!-- <a href="YOUR_TWITTER_URL"><img src="" alt="Twitter" /></a> -->
+  <a href="https://www.linkedin.com/in/rajdip-mondal-54a877296"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <!-- <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-14A800?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a> -->
   <a href="mailto:rajdipmondal03@gmail.com.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
