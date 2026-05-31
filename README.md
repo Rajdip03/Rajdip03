@@ -80,7 +80,17 @@ A highly disciplined Software Engineer and B.Tech CSE graduate specializing in c
 </div>
 
 <br />
+<!-- BACKEND SECTION -->
+<h4 align="center">Backend</h4>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MONGOOSE-0000FF?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+</div>
+
+<br />
 
 <!-- TOOLS SECTION -->
 <h4 align="center">Tools</h4>
