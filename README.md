@@ -27,7 +27,7 @@ A highly disciplined Software Engineer and B.Tech CSE graduate specializing in c
 * 🔭 I'm a MERN Stack Developer with Strong Knowledge in Java(oops).
 * 🌱 MERN Stack 
   * 📄 Check out my [Resume](YOUR_RESUME_LINK_HERE)
-  * 💻 Know more about me [Portfolio](https://rajdip-myportfolio.netlify.app)
+  * 💻 Know more about me [Portfolio](rajdip-portfolio-alpha.vercel.app)
   * 💬 Ask me about *Java, OOP, HTML, CSS, Tailwind CSS, JavaScript, React js, Next js.
   * 📫 How to reach me [rajdipmondal03@gmail.com](mailto:rajdipmondal03@gmail.com)
 
