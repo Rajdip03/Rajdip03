@@ -18,17 +18,17 @@ A highly disciplined Software Engineer and B.Tech CSE graduate specializing in c
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=HI%2C+I+am+Rajdip+Mondal.;A+MERN+Developer.;Interest+in+Coding+and+Development.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=HI%2C+I+am+Rajdip+Mondal.;A+Full+Stack+Developer.;Interest+in+Coding+and+Development.)](https://git.io/typing-svg)
 
 <br />
 
 ### 🙋‍♂️ About Me
 
-* 🔭 I'm a MERN Stack Developer with Strong Knowledge in Java(oops).
+* 🔭 I'm a Full Stack Developer with Strong Knowledge in Java(oops).
 * 🌱 MERN Stack 
   * 📄 Check out my [Resume](YOUR_RESUME_LINK_HERE)
   * 💻 Know more about me [Portfolio](https://rajdip-portfolio-alpha.vercel.app/)
-  * 💬 Ask me about *Java, OOP, HTML, CSS, Tailwind CSS, JavaScript, React js, Next js.
+  * 💬 Ask me about *Java, OOP, HTML, CSS, Tailwind CSS, JavaScript, React js, Next js, Express js, Mongooes.
   * 📫 How to reach me [rajdipmondal03@gmail.com](mailto:rajdipmondal03@gmail.com)
 
 <br />
