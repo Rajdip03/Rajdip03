@@ -59,8 +59,8 @@ A highly disciplined Software Engineer and B.Tech CSE graduate specializing in c
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rajdip-mondal-54a877296"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <!-- <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-14A800?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a> -->
+  <a href="https://rajdip-portfolio-alpha.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-14A800?style=for-the-badge" alt="Portfolio" /></a>
+ <!-- <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a> -->
   <a href="mailto:rajdipmondal03@gmail.com.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
