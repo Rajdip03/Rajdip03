@@ -24,7 +24,7 @@ A highly disciplined Software Engineer and B.Tech CSE graduate specializing in c
 
 ### 🙋‍♂️ About Me
 
-* 🔭 I'm a Full Stack Developer with Strong Knowledge in Java(oops).
+* 🔭 I'm a Full Stack Developer with Strong Knowledge in Java(oops concepts).
 * 🌱 MERN Stack 
   * 📄 Check out my [Resume](https://github.com/Rajdip03/Rajdip03/blob/main/Rajdip_Mondal_Resume.pdf)
   * 💻 Know more about me [Portfolio](https://rajdip-portfolio-alpha.vercel.app/)
