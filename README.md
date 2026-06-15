@@ -41,14 +41,15 @@ A highly disciplined Software Engineer and B.Tech CSE graduate specializing in c
 
 *Feb 2026 - May 2026 
 
-* Engineered dynamic React administrative dashboards for financial payouts and event revenue, integrating dynamic API parameters with complex UI state mapping.
-* Developed and maintained dynamic user interfaces for live client projects using React.js and Next.js, ensuring high performance and responsiveness.
-* Styled responsive web components using modern CSS and Tailwind CSS, improving overall cross-browser compatibility.
-* Conducted rigorous QA testing across multiple project phases, identifying and resolving bugs to ensure seamless product delivery.
-* Managed direct client communications, gathering requirements and translating business needs into actionable technical tasks.
-* Collaborated with the development team to deliver scalable MERN stack solutions within strict project deadlines.
-* Led platform-wide responsive UI refactoring and resolved critical layout, filtering, and API data-mapping.
-* Contributed 15+ Pull request merged while working on multiple live projects during my internship.
+• Designed and Developed scalable React.js solutions for live business platforms, delivering fast and user-    centric web experiences.
+• Built dynamic administrative dashboards with API-driven data visualization, filtering, and state management.
+• Enhanced frontend efficiency through component optimization, rendering improvements, and seamless backend connectivity.
+• Created cross-browser compatible interfaces using Tailwind CSS and modern web development standards.
+• Implemented REST APIs while resolving data-mapping, filtering, and synchronization challenges.
+• Fixed critical layout, functionality, and responsiveness issues, improving platform reliability and usability.
+• Conducted comprehensive testing, debugging, and issue tracking to ensure stable product releases.
+• Gathered client requirements through direct communication and translated business needs into actionable technical implementations.
+• Successfully contributed 15+ production-ready pull requests across multiple client projects using Git and GitHub workflows.
 
   
   </br>
