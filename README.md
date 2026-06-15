@@ -28,7 +28,7 @@ A highly disciplined Software Engineer and B.Tech CSE graduate specializing in c
 * 🌱 MERN Stack 
   * 📄 Check out my [Resume](https://github.com/Rajdip03/Rajdip03/blob/main/Rajdip_Mondal_Resume.pdf)
   * 💻 Know more about me [Portfolio](https://rajdip-portfolio-alpha.vercel.app/)
-  * 💬 Ask me about *Java, OOP, HTML, CSS, Tailwind CSS, JavaScript, React js, Next js, Express js, Mongoose.
+  * 💬 Ask me about *Java, OOPS, HTML, CSS, Tailwind CSS, JavaScript, React js, Next js, Express js, Mongoose.
   * 📫 How to reach me [rajdipmondal03@gmail.com](mailto:rajdipmondal03@gmail.com)
 
 <br />
