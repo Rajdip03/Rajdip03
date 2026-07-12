@@ -41,25 +41,23 @@ A highly disciplined Software Engineer and B.Tech CSE graduate specializing in c
 
 *Feb 2026 - May 2026 
 
-• Designed and Developed scalable React.js solutions for live business platforms, delivering fast and user-centric web experiences.
-</br>
-• Built dynamic administrative dashboards with API-driven data visualization, filtering, and state management.
-</br>
-• Enhanced frontend efficiency through component optimization, rendering improvements, and seamless backend connectivity.
-</br>
-• Created cross-browser compatible interfaces using Tailwind CSS and modern web development standards.
-</br>
-• Implemented REST APIs while resolving data-mapping, filtering, and synchronization challenges.
-</br>
-• Fixed critical layout, functionality, and responsiveness issues, improving platform reliability and usability.
-</br>
-• Conducted comprehensive testing, debugging, and issue tracking to ensure stable product releases.
-</br>
-• Gathered client requirements through direct communication and translated business needs into actionable technical implementations.
-</br>
-• Successfully contributed 15+ production-ready pull requests across multiple client projects using Git and GitHub workflows.
-
-  
+• Designed and developed scalable React.js applications with responsive user interfaces, RESTful API integration,data visualization, filtering, and state
+  management for production business platforms, delivering high-quality,
+  production-ready features.
+ </br>
+• Optimized reusable React components and resolved 40+ UI, functionality, and responsive design issues across
+  multiple production modules, improving application performance, maintainability, and user experience. 
+ </br>
+• Conducted end-to-end manual testing across 6 client projects, identified defects, prepared detailed bug
+  reports, and collaborated with developers to validate fixes, ensuring stable production releases.
+  </br>
+• Prepared comprehensive technical documentation, user manuals, video manuals, and implementation guides
+  for 3 ERP projects, supporting smooth deployment, user onboarding, and knowledge transfer. 
+  </br>
+• Delivered on-site ERP training sessions and product demonstrations for clients across 3 ERP projects, providing
+  end-user training, troubleshooting, and implementation support to ensure successful software adoption.
+  </br>
+• Contributed 15+ production-ready pull requests across multiple client projects using Git and GitHub workflows.
   </br>
   <hr />
 <!-- CONNECT WITH ME SECTION -->
