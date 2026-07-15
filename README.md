@@ -6,10 +6,6 @@
 
 <h1 align="center">Hi 👋, I'm Rajdip Mondal 🤝</h1>
 
-<<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=purple&style=flat" alt="Profile Views" />
-</div> 
-
 <br />
 
 <p align="center">
