@@ -13,7 +13,7 @@
 <br />
 
 <p align="center">
-A highly disciplined Software Engineer and B.Tech CSE graduate specializing in crafting responsive, high-performance web applications. With a strong foundation in Java and JavaScript, I excel in building dynamic user interfaces using React.js, Next.js, and Tailwind CSS. My professional experience spans across frontend development and QA testing on live projects, where I have successfully managed client communications to translate business needs into scalable technical solutions. I am a continuous learner who adapts quickly to new technologies and is driven to deliver seamless, bug-free user experiences.
+A highly disciplined Software Engineer and B.Tech CSE graduate specializing in crafting responsive, high-performance web applications. With a strong foundation in Java and JavaScript, I excel in building dynamic user interfaces using React.js, Next.js, and Tailwind CSS. My professional experience spans across frontend development , Backend Development and QA testing on live projects, where I have successfully managed client communications to translate business needs into scalable technical solutions. I am a continuous learner who adapts quickly to new technologies and is driven to deliver seamless, bug-free user experiences.
 </p>
 
 <br />
