@@ -37,18 +37,27 @@ A highly disciplined Software Engineer and B.Tech CSE graduate specializing in c
 
 *Feb 2026 - May 2026 
 
-• Developed scalable React.js web applications featuring responsive UI, RESTful API integration, data visualization, and advanced state management for production business platforms.
+• Developed scalable React.js web applications featuring responsive UI, RESTful API integration, data visualization, and advanced state management for production   business platforms.
 <br/>
 • Optimized reusable React components and resolved 40+ UI, functionality, and responsive design issues, boosting application performance and maintainability.
 <br/>
-• Executed end-to-end manual testing across 6 client projects, identifying defects, drafting bug reports, and collaborating with engineering teams to ensure stable production releases.
+• Executed end-to-end manual testing across 6 client projects, identifying defects, drafting bug reports, and collaborating with engineering teams to ensure       stable production releases.
 <br/>
 • Authored comprehensive technical documentation, user manuals, and implementation guides for 3 ERP projects, streamlining user onboarding and deployment.
 <br/>
-• Facilitated on-site ERP training sessions and product demonstrations for clients across 3 projects, providing troubleshooting and implementation support to drive software adoption.
+• Facilitated on-site ERP training sessions and product demonstrations for clients across 3 projects, providing troubleshooting and implementation support to  drive software adoption.
 <br/>
 • Delivered 15+ production-ready pull requests across multiple client projects utilizing Git and GitHub version control workflows.
-  <hr />
+  
+  #### 🔗 Mern Stack Developer @ Runtime Solutions
+
+*July 2026 - Present 
+
+• Developed the complete frontend of a production-ready web application using React.js, ensuring responsive and user-friendly interfaces.
+</br>
+• Created reusable React components and implemented component-based architecture to improve scalability and maintainability.
+</br>
+• Integrated REST APIs using Axios/Fetch and handled dynamic data rendering with efficient state management.
 <!-- CONNECT WITH ME SECTION -->
 <h3 align="center">📱 Connect with me</h3>
 <hr />
