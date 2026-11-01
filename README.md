@@ -105,7 +105,7 @@ Working As a Full Stack developer & QA Engineer.
 2. Newsling: Education-focused website and digital learning initiative platform
 
 Contribution:
-working As a Frontend Developer 
+worked As a Frontend Developer 
 
 * Developed and refined website pages based on Figma designs using HTML, and Tailwind CSS.
 * Implemented UI layouts, typography, spacing, icons, and content updates to maintain design consistency.
