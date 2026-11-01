@@ -37,27 +37,88 @@ A highly disciplined Software Engineer and B.Tech CSE graduate specializing in c
 
 *Feb 2026 - May 2026 
 
-• Developed scalable React.js web applications featuring responsive UI, RESTful API integration, data visualization, and advanced state management for production   business platforms.
-<br/>
-• Optimized reusable React components and resolved 40+ UI, functionality, and responsive design issues, boosting application performance and maintainability.
-<br/>
-• Executed end-to-end manual testing across 6 client projects, identifying defects, drafting bug reports, and collaborating with engineering teams to ensure       stable production releases.
-<br/>
-• Authored comprehensive technical documentation, user manuals, and implementation guides for 3 ERP projects, streamlining user onboarding and deployment.
-<br/>
-• Facilitated on-site ERP training sessions and product demonstrations for clients across 3 projects, providing troubleshooting and implementation support to  drive software adoption.
-<br/>
-• Delivered 15+ production-ready pull requests across multiple client projects utilizing Git and GitHub version control workflows.
+• Projects:
+<br>
+1. Oasis Travels - Corporate Travel Management Platform.
+2. LiveVibes - Live Streaming & Event Discovery Platform.
+
+Contributions:
+Worked as a Frontend Developer
+<br>
+• Designed and Developed scalable React.js solutions for live business platforms, delivering fast and user-centric web experiences.
+<br>
+• Built dynamic administrative dashboards with API-driven data visualization, filtering, and state management.
+<br>
+• Enhanced frontend efficiency through component optimization, rendering improvements, and seamless backend connectivity.
+<br>
+• Created cross-browser compatible interfaces using Tailwind CSS and modern web development standards.
+<br>
+• Implemented REST APIs while resolving data-mapping, filtering, and synchronization challenges.
+<br>
+• Fixed critical layout, functionality, and responsiveness issues, improving platform reliability and usability.
+<br>
+• Conducted comprehensive testing, debugging, and issue tracking to ensure stable product releases.
+<br>
+• Gathered client requirements through direct communication and translated business needs into actionable technical implementations.
+<br>
+• Successfully contributed 15+ production-ready pull requests across multiple client projects using Git and GitHub workflows.
+
+Projects:
+<br>
+3. Param - Railway Tender Management Platform
+<br>
+4. Mill Mitra - Mill Mitra is a digital operating platform specifically built for Indian flour/wheat mills.
+
+Contributions:
+Worked as a QA Engineer and ERP Trainer 
+
+• Conducted comprehensive testing, debugging, and issue tracking to ensure stable product releases.
+<br>
+• Gathered client requirements through direct communication and translated business needs into actionable technical implementations.
+<br>
+• Create Complete ERP Tanning Document.
+<br>
+• Visit On client Side as an ERP Trainer.
   
   #### 🔗 Mern Stack Developer @ Runtime Solutions
 
 *July 2026 - Present 
 
-• Developed the complete frontend of a production-ready web application using React.js, ensuring responsive and user-friendly interfaces.
-</br>
-• Created reusable React components and implemented component-based architecture to improve scalability and maintainability.
-</br>
-• Integrated REST APIs using Axios/Fetch and handled dynamic data rendering with efficient state management.
+• Projects: 
+1. Leela: Hotel Management & Booking Platform 
+
+Contributions: 
+Working As a Full Stack developer & QA Engineer.
+
+* Develop and maintain production frontend features using Next.js, TypeScript, Tailwind.
+* Fixing functional and UI bugs across booking, room listing, guest details and booking management workflows.
+* Debugged frontend issue and implemented reliable fixes while following the existing application architecture.
+
+* Implemented backend validation messages to improve data accuracy and user experience.
+* Developed and maintained data models to support application functionality.
+*  Contributed to backend logic and application data handling.
+* Improved input validation and error handling for reliable application workflows.
+* Supported backend development, debugging, and feature enhancements.
+
+* Performed end-to-end functional, UI, and regression testing to validate features and prevent defects.
+
+2. Newsling: Education-focused website and digital learning initiative platform
+
+Contribution:
+working As a Frontend Developer 
+
+* Developed and refined website pages based on Figma designs using HTML, and Tailwind CSS.
+* Implemented UI layouts, typography, spacing, icons, and content updates to maintain design consistency.
+* Improved page presentation and responsiveness while aligning website layouts with design specifications.
+
+3. Aangan: Learning Management & Communication Platform
+
+Contributions: 
+Working As a QA Engineer.
+
+* Performed functional, UI, usability, and regression testing across LMS and communication workflows.
+* Identified, reproduced, and documented critical and functional defects with clear steps, expected/actual results,  and supporting evidence.
+* Raised and tracked issues in Plane and collaborated with developers to validate fixes and maintain product quality.
 <!-- CONNECT WITH ME SECTION -->
 <h3 align="center">📱 Connect with me</h3>
 <hr />
