@@ -24,7 +24,7 @@ A highly disciplined Software Engineer and B.Tech CSE graduate specializing in c
 * 🌱 MERN Stack 
   * 📄 Check out my [Resume](https://github.com/Rajdip03/Rajdip03/blob/main/Resume-Rajdip_Mondal.pdf)
   * 💻 Know more about me [Portfolio](https://rajdip-portfolio-alpha.vercel.app/)
-  * 💬 Ask me about *Java, OOPS, HTML, CSS, Tailwind CSS, JavaScript, React js, Next js, Express js, Mongoose, Node.js, MongoDB.
+  * 💬 Ask me about *Java, OOPS, HTML, CSS, Tailwind CSS, JavaScript, React js, Redux, Redis, Next js, Express js, Mongoose, Node.js, MongoDB.
   * 📫 How to reach me [rajdipmondal03@gmail.com](mailto:rajdipmondal03@gmail.com)
 
 <br />
@@ -63,7 +63,7 @@ Worked as a Frontend Developer
 <br>
 • Successfully contributed 15+ production-ready pull requests across multiple client projects using Git and GitHub workflows.
 
-Projects:
+• Projects:
 <br>
 3. Param - Railway Tender Management Platform
 <br>
@@ -141,8 +141,11 @@ Working As a QA Engineer.
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/NEXT.JS-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/REDUX-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/DOM-007BFF?style=for-the-badge" alt="DOM" />
 </div>
 
@@ -155,6 +158,8 @@ Working As a QA Engineer.
   <img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MONGOOSE-0000FF?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </div>
 
 <br />
@@ -175,6 +180,16 @@ Working As a QA Engineer.
 
 <br />
 <br />
+
+<div align="center">
+  <h4><b>AI & Productivity Workflow</b></h4>
+  <br/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Antigravity_AI-0055FF?style=for-the-badge&logo=openai&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Sitch_UI-FF007F?style=for-the-badge&logo=figma&logoColor=white" alt="Sitch" />
+</div>
 
 <!-- LARGE SKILLS GRAPHIC -->
 <!-- <div align="center">
